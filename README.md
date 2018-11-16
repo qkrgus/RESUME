@@ -17,14 +17,12 @@ RESUME
  ##### 내가 자주가는 사이트  
  1. https://naver.com  
  2. [한림대학교](http://www.hallym.ac.kr)   
- 3. [네이버][1]  
+ 3. [네이버][1]    
  
  
  
  
- ###### 활동사진  
- ![]
- 
+ ![내사진](내사진.jpg) 
  
  
  [1]:www.naver.com
